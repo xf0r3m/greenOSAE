@@ -5,5 +5,4 @@
   * Usunięcie pakietu ncspot instalowanego ze snap
   * Usunięcie snap
   * Instalacja ntfs-3g openssh
-  * Usunięcie plików /etc/fstab ora /boot/grub/grub.cfg pozstałych po
-środowisku budowania.
+  * Usunięcie plików /etc/fstab ora /boot/grub/grub.cfg pozstałych po środowisku budowania.
